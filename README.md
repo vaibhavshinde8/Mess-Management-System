@@ -1,2 +1,1 @@
-# Mess-Management-System
-Mess Management System
+# Mess-Managment-Project
